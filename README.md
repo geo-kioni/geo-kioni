@@ -18,7 +18,7 @@
 ---
 
 ## 🧠 About me
-I’m **Francis Kioni** — a **GIS / Remote Sensing / GeoAI** practitioner building systems that connect **maps + models + decision-making**.
+Top of the map lads. I’m **Francis Kioni**, a **GIS / Remote Sensing / GeoAI** practitioner building systems that connect **maps + models + decision-making**.
 
 I enjoy:
 - 🗺️ **Spatial analytics & data engineering** (clean pipelines, reproducible ETL, scalable geoprocessing)
